@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dashoard/static/css/main.882b21bd.chunk.css",
+    "main.js": "/dashoard/static/js/main.71465dd7.chunk.js",
+    "main.js.map": "/dashoard/static/js/main.71465dd7.chunk.js.map",
+    "runtime-main.js": "/dashoard/static/js/runtime-main.d647f856.js",
+    "runtime-main.js.map": "/dashoard/static/js/runtime-main.d647f856.js.map",
+    "static/css/2.adc6f56e.chunk.css": "/dashoard/static/css/2.adc6f56e.chunk.css",
+    "static/js/2.626f4230.chunk.js": "/dashoard/static/js/2.626f4230.chunk.js",
+    "static/js/2.626f4230.chunk.js.map": "/dashoard/static/js/2.626f4230.chunk.js.map",
+    "index.html": "/dashoard/index.html",
+    "static/css/2.adc6f56e.chunk.css.map": "/dashoard/static/css/2.adc6f56e.chunk.css.map",
+    "static/css/main.882b21bd.chunk.css.map": "/dashoard/static/css/main.882b21bd.chunk.css.map",
+    "static/js/2.626f4230.chunk.js.LICENSE.txt": "/dashoard/static/js/2.626f4230.chunk.js.LICENSE.txt",
+    "static/media/avatar.1a84bdf0.svg": "/dashoard/static/media/avatar.1a84bdf0.svg",
+    "static/media/hello.4a9307f4.svg": "/dashoard/static/media/hello.4a9307f4.svg",
+    "static/media/logo.41c53598.png": "/dashoard/static/media/logo.41c53598.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d647f856.js",
+    "static/css/2.adc6f56e.chunk.css",
+    "static/js/2.626f4230.chunk.js",
+    "static/css/main.882b21bd.chunk.css",
+    "static/js/main.71465dd7.chunk.js"
+  ]
+}
